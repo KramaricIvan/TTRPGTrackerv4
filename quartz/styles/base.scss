@@ -549,3 +549,20 @@ iframe.pdf {
   width: 100%;
   border-radius: 5px;
 }
+
+.dnd-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #f9f9f9;
+}
+
+.dnd-item-title {
+  font-size: 1.5em;
+  color: #333;
+}
+
+.dnd-item-content {
+  font-size: 1em;
+  color: #666;
+}

@@ -8,4 +8,6 @@ const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
   return <article class={classString}>{content}</article>
 }
 
+
+
 export default (() => Content) satisfies QuartzComponentConstructor
