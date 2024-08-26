@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# Run npx quartz sync from the current directory
-npx quartz build --serve
+# Open a new Command Prompt window and run the command
+cmd.exe /c start cmd.exe /k "npx quartz build --serve"
