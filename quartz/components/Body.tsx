@@ -1,7 +1,7 @@
 // @ts-ignore
 import clipboardScript from "./scripts/clipboard.inline"
 import clipboardStyle from "./styles/clipboard.scss"
-import DndItem from "./DndItem"
+
 
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 

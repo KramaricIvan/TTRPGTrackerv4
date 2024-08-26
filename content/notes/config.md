@@ -2,6 +2,7 @@
 title: "Configuration"
 tags:
 - setup
+- private
 weight: 0
 ---
 

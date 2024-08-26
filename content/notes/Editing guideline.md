@@ -85,3 +85,17 @@ Item3
 # 4. CSS
 
 - you can add custom CSS styling and change existing colours through editing `assets/styles/custom.scss`. If you'd like to target specific parts of the site, you can add ids and classes to the HTML partials in `/layouts/partials`. 
+
+<Comments 
+  provider="giscus" 
+  options={{
+    repo: "your-username/your-repo",
+    repoId: "your-repo-id",
+    category: "General",
+    categoryId: "category-id",
+    mapping: "url",
+    strict: true,
+    reactionsEnabled: true,
+    inputPosition: "bottom"
+  }} 
+/>
