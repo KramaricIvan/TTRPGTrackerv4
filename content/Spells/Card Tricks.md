@@ -1,0 +1,1 @@
+You learn the [Prestidigitation](http://dnd5e.wikidot.com/spell:prestidigitation) cantrip and can use it to create illusions that duplicate the effects of stage magic. When you use [Prestidigitation](http://dnd5e.wikidot.com/spell:prestidigitation) in this way, you can conceal the verbal and somatic components of the spell as ordinary conversation and card handling.

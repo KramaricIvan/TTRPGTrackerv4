@@ -1,4 +1,6 @@
 #!/bin/bash
 
-# Open a new Command Prompt window and run the command
-cmd.exe /c start cmd.exe /k "npx quartz build --serve"
+npx quartz build --serve
+
+$SHELL
+

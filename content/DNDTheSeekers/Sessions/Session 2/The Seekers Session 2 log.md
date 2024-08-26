@@ -4,6 +4,7 @@ title: "TheSeekers S2: LOG"
 
 # SESSION 2:
 
+
 - #### 4. ᛚ (Laguz) 3501.  
 	- The Seekers all rest and get ready for the new day 
 	- [[DNDTheSeekers/PlayerChars/Khashana|Khashana]] doesn't wake up, and [[DNDTheSeekers/Characters/NPC/Thistle|Thistle]] stays behind to guard her  
@@ -15,10 +16,10 @@ title: "TheSeekers S2: LOG"
 	- backtracking a bit, The Seekers discover a ruined cave passage and try to peek to the other side  
 	- just a bit further, the iron doors make The Seekers turn back   
 	- the sounds of waterfalls attract The Seekers into a big open room  
-	- After some horsing around [[DNDTheSeekers/PlayerChars/AAron|AAron]] **[ELDRITCH BLASTS!](  )** the water pool inside the room, finds a hole in the water, and alarms the giant zombie ogre! 
+	- After some horsing around [[DNDTheSeekers/PlayerChars/AAron|AAron]] **[ELDRITCH BLASTS!]** the water pool inside the room, finds a hole in the water, and alarms the giant zombie ogre! 
 		- ![|300](DNDTheSeekers/images/zombieogre.png)  
 	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] and [[DNDTheSeekers/PlayerChars/AAron|AAron]] rush to battle, [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] cultivating a bush of goodberries  
-	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] breaks the curse of missing and deals her first damage this whole campaign, but it seems [[DNDTheSeekers/PlayerChars/AAron|AAron]] caught it as he hits [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] with **[ELDRITCH BLAST!]( )** by accident  
+	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] breaks the curse of missing and deals her first damage this whole campaign, but it seems [[DNDTheSeekers/PlayerChars/AAron|AAron]] caught it as he hits [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] with **[ELDRITCH BLAST!]** by accident  
 	- Seekers dispose of Ogre, find the three TIEFLINGS from the [[DNDTheSeekers/Items/Tattered notebook, Infernal|notebook]] dead and get some loot from the ogre's room.  
 		- ![|300](DNDTheSeekers/images/ogrebattle.png)
 	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] and [[DNDTheSeekers/PlayerChars/Raksha|Raksha]] decide to dive into the hole [[DNDTheSeekers/PlayerChars/AAron|AAron]] discovered  

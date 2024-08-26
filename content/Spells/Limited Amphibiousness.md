@@ -1,0 +1,1 @@
+You can breathe air and water, but you need to be submerged at least once every 4 hours to avoid suffocating.

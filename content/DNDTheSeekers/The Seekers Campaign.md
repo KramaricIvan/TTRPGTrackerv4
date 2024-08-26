@@ -1,5 +1,5 @@
 ---
-title: The Seekers
+title: The Seekers Campaign
 enableToc: false
 ---
 ___

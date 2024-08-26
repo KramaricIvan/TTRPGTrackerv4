@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "https://kramaricivan.github.io/TTRPGTrackerv4/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -28,26 +28,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#E0E0E0",
+          lightgray: "#c2c2c2",        // Darker gray for secondary elements
+          gray: "#4C4C4C",             // Medium dark gray
+          darkgray: "#1F1F1F",         // Slightly lighter gray for borders or inactive elements
+          dark: "#388f35",            // Deep, bluish purple for primary elements
+          secondary: "#5e4596",       // Vivid blue-purple for interactive elements
+          tertiary: "#388f35",        // Lighter blue-purple for accents
+          highlight: "rgba(224, 224, 224, 0.15)",
+          textHighlight: "#388f35"
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#0F0F0F",        // Very dark gray, almost black
+          lightgray: "#1F1F1F",        // Darker gray for secondary elements
+          gray: "#4C4C4C",             // Medium dark gray
+          darkgray: "#E0E0E0",         // Slightly lighter gray for borders or inactive elements
+          dark: "#388f35",            // Deep, bluish purple for primary elements
+          secondary: "#5e4596",       // Vivid blue-purple for interactive elements
+          tertiary: "#388f35",        // Lighter blue-purple for accents
+          highlight: "rgba(75, 33, 103, 0.15)", // Transparent blue-purple for highlights
+          textHighlight: "#388f35"  // Transparent light blue-purple for text highlights
         },
       },
     },
