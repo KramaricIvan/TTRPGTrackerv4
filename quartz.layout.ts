@@ -27,11 +27,17 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      folderDefaultState: "collapsed",
+      filterFn: (node) => node.name !== "Spells"
+    })),
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.MobileOnly(Component.Explorer({
+      folderDefaultState: "collapsed",
+      filterFn: (node) => node.name !== "Spells"
+    })),
     Component.Backlinks(),
   ],
 }
@@ -44,7 +50,10 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      folderDefaultState: "collapsed",
+      filterFn: (node) => node.name !== "Spells"
+    })),
   ],
   right: [],
 }
