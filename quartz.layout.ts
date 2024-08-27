@@ -40,7 +40,9 @@ export const defaultContentPageLayout: PageLayout = {
       folderDefaultState: "collapsed",
       filterFn: (node) => !excludedPages.includes(node.name)
     })),
+    Component.DesktopOnly(Component.TableOfContents())
     Component.Backlinks(),
+
   ],
 }
 
