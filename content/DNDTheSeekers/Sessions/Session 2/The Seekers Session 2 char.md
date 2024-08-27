@@ -26,7 +26,7 @@ ___
 -   
 	- coming back to left left right path, [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] figures out that left left right right path looks the same as left left path to the left left left path  
 	- The Seekers decide to go left left right left and they stumble into a room with a pool of water, water falling from the wall, and an island in the middle of that body of water  
-	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] and [[DNDTheSeekers/PlayerChars/Rungni|Rungni]] try to look inside the water but [[DNDTheSeekers/PlayerChars/AAron|AAron]] just decides to [[Spells/Eldritch blast|Eldritch blast]] the water  
+	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] and [[DNDTheSeekers/PlayerChars/Rungni|Rungni]] try to look inside the water but [[DNDTheSeekers/PlayerChars/AAron|AAron]] just decides to [[Eldritch blast|Eldritch blast]] the water  
 	- upon [[DNDTheSeekers/PlayerChars/AAron|AAron's]] mindful investigation of the water, The Seekers learn of the peculiar dark/deep square in the water  
 	- but before they could act, their bones get shaken up by the loud thumping  
 	- Huge zombie ogre joins The Seekers in exploring the cavernous aquatic flora and fauna

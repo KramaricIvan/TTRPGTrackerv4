@@ -14,6 +14,9 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
+      This site contains some content officially made and owned by Wizards of the Coast, and some content that is unofficial and not owned by Wizards of the Coast. All content on this site is used under the Open Gaming License. You can find the OGL <a href="https://media.wizards.com/2016/downloads/SRD-OGL_V1.1.pdf">here</a>.
+        </p>
+        <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>

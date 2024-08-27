@@ -1,12 +1,12 @@
 ---
-title: "TTRPG-Tracker site"
+title: TTRPG-Tracker
 enableToc: false
 ---
 ___
 # Current  DND games:
 
-- # [[DNDTheSeekers/The Seekers Campaign|The Seekers Campaign]]
-- # [[DNDDarkTidesCarnival/The Dark Tides Carnival|The Dark Tides Carnival Campaign]]
+- # [[The Seekers|The Seekers]]
+- # [[DNDDarkTidesCarnival/The Dark Tides Carnival|The Dark Tides Carnival]]
 ___
 ___
 

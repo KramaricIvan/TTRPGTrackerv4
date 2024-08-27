@@ -3,7 +3,7 @@ tags: dnd, dnd_spell
 ---
 Source: Player's Handbook
 
-You can cast [[disguise self]] at will, without expending a spell slot.
+You can cast [[Disguise self]] at will, without expending a spell slot.
 _1st-level illusion_
 
 **Casting Time:** 1 action  

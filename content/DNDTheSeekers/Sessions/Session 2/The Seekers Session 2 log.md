@@ -18,6 +18,7 @@ title: "TheSeekers S2: LOG"
 	- the sounds of waterfalls attract The Seekers into a big open room  
 	- After some horsing around [[DNDTheSeekers/PlayerChars/AAron|AAron]] **[ELDRITCH BLASTS!]** the water pool inside the room, finds a hole in the water, and alarms the giant zombie ogre! 
 		- ![|300](DNDTheSeekers/images/zombieogre.png)  
+	
 	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] and [[DNDTheSeekers/PlayerChars/AAron|AAron]] rush to battle, [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] cultivating a bush of goodberries  
 	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] breaks the curse of missing and deals her first damage this whole campaign, but it seems [[DNDTheSeekers/PlayerChars/AAron|AAron]] caught it as he hits [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] with **[ELDRITCH BLAST!]** by accident  
 	- Seekers dispose of Ogre, find the three TIEFLINGS from the [[DNDTheSeekers/Items/Tattered notebook, Infernal|notebook]] dead and get some loot from the ogre's room.  
@@ -26,6 +27,7 @@ title: "TheSeekers S2: LOG"
 	- After some time, the whole party descends into the underground cave filled with glowing stones (Crowbar and morningn star go brrrr [[DNDTheSeekers/PlayerChars/Rungni|Rungni]], [[DNDTheSeekers/PlayerChars/AAron|AAron]])  
 	- The seekers descend into the caves, then decide to follow a water path, when all of a sudden a swarm of frenzied quippers rushes at them   
 		- ![|400](DNDTheSeekers/images/swarmquippers.png)  
+		- 
 ___
 
 # SESSION 2.5:
