@@ -6,7 +6,7 @@ ___
 # Current  DND games:
 
 - # [[The Seekers|The Seekers]]
-- # [[DNDDarkTidesCarnival/The Dark Tides Carnival|The Dark Tides Carnival]]
+- # [[The Dark Tides Carnival|The Dark Tides Carnival]]
 ___
 ___
 > [!warning] Broken spell links

@@ -40,6 +40,12 @@ Would push to git and build
 
 # 2. Images
 
+
+NEW:
+Using this image snippet : 
+https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments
+___
+OLD:
 - Sort images you add to coresponding folders
 - If it's something for the campaign pages, then sort it in that campaigns image folder
 - if it's something for the notes and guides, then sort it in the notes/images folder
