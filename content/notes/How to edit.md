@@ -75,6 +75,7 @@ git clone https://github.com/KramaricIvan/TTRPG-Tracker
 
 # 2. Updating 
 
+- you first have to sync the files
 - in the repo I added zz_gitsync.sh
 ```
 #!/bin/bash
@@ -85,6 +86,20 @@ $SHELL
 ```
 npx quartz sync
 ```
+___
+
+- each time before you start editing 
+- pull the changes from site by running sync'
+- then go edit what you wanted to edit 
+- then to have the edits pushed to the site run the sync again 
+
+
+___
+- there is zz__localrun.sh in the repo too
+- it's for running the page locally (your version just on your PC, simulating what the site would look like if you ran sync)
+- In case you want to be able to preview your edits before you push you have to install quartz on your machine
+- they have great documentation https://quartz.jzhao.xyz/ so just follow it 
+
 
 
 

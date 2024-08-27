@@ -35,7 +35,7 @@ ___
 - -  
 	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] charges to the undead spawn fearlessly, the whole room shining from her angelic presence (or flare mace, it's probably the flare mace)  
 	- [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] HITS!!! [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] DOES DAMAGE??????!! The whole room cheers [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] up   
-	- [[DNDTheSeekers/PlayerChars/AAron|AAron]] walks towards the entrance doors, drops his shield, and tries to smite and **[[ELDRITCH BLAST!]]** the Ogre, but he misses... and hits his 8th best friend [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] , stabilizing their relationship and building trust  
+	- [[DNDTheSeekers/PlayerChars/AAron|AAron]] walks towards the entrance doors, drops his shield, and tries to smite and **[[Eldritch blast|ELDRITCH BLAST!]]** the Ogre, but he misses... and hits his 8th best friend [[DNDTheSeekers/PlayerChars/þrúđr|þrúđr]] , stabilizing their relationship and building trust  
 	- meantime [[DNDTheSeekers/PlayerChars/Potjeh|Potjeh]] tends to his bush  
 	- then gives everyone some goodberries and prepares to charge the pesky ogre  
 	- [[DNDTheSeekers/PlayerChars/Taboo|Taboo]] tools the dead (bit redundant? **[[ELDRITCH BLAST!]]** already did the trick of summoning the undead) and deals necrotic damage to the rooting corpse   

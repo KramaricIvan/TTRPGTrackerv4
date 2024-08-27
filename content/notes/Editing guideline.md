@@ -2,7 +2,10 @@
 title: "Editing guideline"
 enableToc: true
 ---
-
+> [!warning] DISREGARD NOTES
+> Since first version of this site, Obsidian and Quartz had many updates
+> some of the things down are not up to date and are addressing older version issues
+> Will update eventually
 # 1. Metadata
 
 ## 1.1 Titles

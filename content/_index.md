@@ -9,10 +9,11 @@ ___
 - # [[DNDDarkTidesCarnival/The Dark Tides Carnival|The Dark Tides Carnival]]
 ___
 ___
+> [!warning] Broken spell links
+>Moved the site to Quartz v4 
+>still didn't migrate all content and fixed links
+>stay patient 
 
-> [!warning] DISREGARD NOTES
-> Changed how the whole site works!
-> Will update eventually
 
 Site notes:  
 - [[notes/How to edit |How to edit]]
