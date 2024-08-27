@@ -41,6 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
       filterFn: (node) => !excludedPages.includes(node.name)
     })),
     Component.Backlinks(),
+    Component.DesktopOnly(Component.TableOfContents())
   ],
 }
 
