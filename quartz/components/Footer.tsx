@@ -17,6 +17,9 @@ export default ((opts?: Options) => {
       This site contains some content officially made and owned by Wizards of the Coast, and some content that is unofficial and not owned by Wizards of the Coast. All content on this site is used under the Open Gaming License. You can find the OGL <a href="https://company.wizards.com/en/legal/fancontentpolicy">here</a>.
         </p>
         <p>
+          This site isn't sponosred or in any way endorsed or connected to Wizards of the Coast or any other company.
+        </p>
+        <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
