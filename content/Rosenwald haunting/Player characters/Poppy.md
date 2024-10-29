@@ -7,6 +7,7 @@ ___
 Titles: 
 - Prisoner of Thunder wood prison (backstory)
 - Cleric of Illmater (backstory)
+- Poppy the Pop (backstory)
 
 Items: 
 - [[Items/Gem of Brightness|Gem of Brightness]]
