@@ -3,7 +3,9 @@
 - 6 slots in this order under the text
 
 | | | |
-|---|
+|---|---|---|
+| | | |
+
 - 3 cards were found in same bookcase 
 	- The Lovers
 	- Death
