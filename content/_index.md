@@ -7,6 +7,8 @@ ___
 
 - # [[The Seekers|The Seekers]]
 - # [[The Dark Tides Carnival|The Dark Tides Carnival]]
+- # [[Rosenwald haunting]]
+
 ___
 ___
 > [!warning] Broken spell links
@@ -19,3 +21,5 @@ Site notes:
 - [[notes/How to edit |How to edit]]
 - [[notes/Editing guideline]]
 ___
+
+
