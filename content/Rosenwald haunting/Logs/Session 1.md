@@ -1,13 +1,13 @@
 # Logs:   
 
-- [[Njumpka]] and [[Poppy]] the pop arrived at the front gates of the Rosenwald estate.  
-- They stumbled upon a trail of glowing pumpkins; after breaking one, they met [[[[Wisb]]].  
+- [[Njumpka]] and [[Poppy]] the pop arrived at the front gates of the [[Rosenwald estate]].  
+- They stumbled upon a trail of glowing pumpkins; after breaking one, they met [[Wisb]].  
 - [[Wisb]] got intimidated by [[Poppy]] and called for reinforcements.  
 ![[Pasted image 20241029224503.png|center|200]]
 - During a battle with some Boggles and Whisps, they spotted a girl and two ghosts rushing towards them.  
 ![[Pasted image 20241029230158.png|center|300]]
 - The girl was attacking them—ghosts and boggles—until, at the end, it was only ghost hunters and her standing.  
-- That girl was [[[[Cthula]]]. She entered a psychic conversation with both [[Njumpka]] and [[Poppy]].  
+- That girl was [[Cthula]]. She entered a psychic conversation with both [[Njumpka]] and [[Poppy]].  
 - After sharing their reasoning for visiting the estate at 3 am, they together headed towards the front door.  
 ---
 - They were met with a large door with four keyholes, one key inside, and dozens of keys all around them. It took them a while, but they cracked the puzzle.  
@@ -21,7 +21,7 @@
 ![[Pasted image 20241029230709.png|center|400]]
 - [[Poppy]] was in luck as his woodland vigor brought him back to life, and he in turn brought [[Cthula]] back.  
 - After defeating the Banshee, the mimic party decided to take a nap.  
-- Night went peacefully, and they discovered more letters, [[a book, and some tarot cards]]. 
+- Night went peacefully, and they discovered more [[Rosenwald siblings letter|letters between siblings]], [[a book, and some tarot cards]]. 
 ![[Pasted image 20241029231052.png|center|700]]
 ---
 - They went to the corridors opposite the library and found themselves in a room with two cabinets, a spider web wall, some paintings of flowers, and a chest.  
@@ -38,9 +38,9 @@
 - [[Njumpka]] was unable to open an unlocked fence; she pushed it forcefully, only to be struck by a powerful backlash. She was just supposed to... pull  
 - [[Njumpka]] climbs over [[Poppy]] to jump over the unlocked fence—the hard way, even though she has her [[Slippers of Spider Climbing]] equipped.  
 - [[Njumpka]], the light-sensitive shadow goblin, rushed to grab a bright glowing pumpkin, then proceeded to get blinded and drop it, destroying it.  
-- Pumpkin produced a scared little blue wisp that did nothing, but [[Poppy]] saw it as an opportunity to test his intimidation proficiency, and it worked. Petrified, Wisb called out to the surrounding fay to ward off the scary intruders.  
+- Pumpkin produced a scared little blue wisp that did nothing, but [[Poppy]] saw it as an opportunity to test his intimidation proficiency, and it worked. Petrified, [[Wisb]] called out to the surrounding fay to ward off the scary intruders.  
 - Njumpka rushed to blast the Boggles by climbing the fence, only to set off 3 more wisps
-- The fight with a few small boggles took hours, until [[Cthula]] became bored. She [[Evard's Black Tentacles|summoned eldritch tentacles]], which killed everyone (even Wisb) in 2 turns (compared to the 16 turns it took to kill one basic boggle).  
+- The fight with a few small boggles took hours, until [[Cthula]] became bored. She [[Evard's Black Tentacles|summoned eldritch tentacles]], which killed everyone (even [[Wisb]]) in 2 turns (compared to the 16 turns it took to kill one basic boggle).  
 - The main door puzzle was nearly solved in the first five seconds, but after that, they made numerous mistakes and once again overlooked the possibility that some doors were simply unlocked.  
 - [[Cthula]] is only standing at the mansion doors and letting her made hand and [[Poppy]] do all the exploration and all the dirty work of setting of traps.
 - [[Cthula]] is checking blue glowing books in a haunted house just to get zeroed by a banshee. 
