@@ -2,9 +2,8 @@
 ![[Pasted image 20241029231920.png]]
 - 6 slots in this order under the text
 
-| | | |
-|---|---|---|
-| | | |
+![[Pasted image 20241030000402.png]]
+
 
 - 3 cards were found in same bookcase 
 	- The Lovers
