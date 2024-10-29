@@ -21,7 +21,7 @@
 ![[Pasted image 20241029230709.png|center|400]]
 - [[Poppy]] was in luck as his woodland vigor brought him back to life, and he in turn brought [[Cthula]] back.  
 - After defeating the Banshee, the mimic party decided to take a nap.  
-- Night went peacefully, and they discovered more [[Rosenwald siblings letter|letters between siblings]], [[a book, and some tarot cards]]. 
+- Night went peacefully, and they discovered more [[Rosenwald siblings letter|letters between siblings]], [[A book and some tarot cards]]. 
 ![[Pasted image 20241029231052.png|center|700]]
 ---
 - They went to the corridors opposite the library and found themselves in a room with two cabinets, a spider web wall, some paintings of flowers, and a chest.  
